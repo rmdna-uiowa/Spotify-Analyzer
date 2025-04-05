@@ -1,3 +1,5 @@
 .env
 MELLIFRIAL.json
 VIBROPIX.json
+__pycache__/
+*.pyc
